@@ -1,1 +1,1 @@
-phar:///flag.txt
+<?php php://input?>
