@@ -1,1 +1,1 @@
-java&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;:alert(1)
+<script>alert('I am hack!')</script>
