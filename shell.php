@@ -1,1 +1,1 @@
-<?php php://input?>
+php://input
