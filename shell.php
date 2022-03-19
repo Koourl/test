@@ -1,1 +1,1 @@
-file=phar:///flag.txt
+phar:///flag.txt
